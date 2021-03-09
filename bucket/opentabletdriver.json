@@ -1,5 +1,5 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.2.1",
     "description": "Open source, cross-platform, user-mode tablet driver",
     "homepage": "https://github.com/InfinityGhost/OpenTabletDriver",
     "license": {
@@ -7,8 +7,8 @@
     },
     "notes": "",
     "depends": "dotnet-sdk",
-    "url": "https://github.com/InfinityGhost/OpenTabletDriver/releases/download/v0.5.2/OpenTabletDriver.win-x64.zip",
-    "hash": "968ece0b7f831d1cc6f5d5b977407153a5af7f548ac467858e1bb1ade7b60a89",
+    "url": "https://github.com/InfinityGhost/OpenTabletDriver/releases/download/v0.5.2.1/OpenTabletDriver.win-x64.zip",
+    "hash": "b8d9897e39ecb69abd36802b715e3c16faa5946b2328da02003da829713074c5",
     "shortcuts": [
         [
             "OpenTabletDriver.UX.Wpf.exe",
