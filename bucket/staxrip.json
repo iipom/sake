@@ -8,7 +8,7 @@
     "notes": "",
     "depends": "dotnet-sdk",
     "url": "https://github.com/staxrip/staxrip/releases/download/v2.3.0/StaxRip-v2.3.0-x64.7z",
-    "hash": "408A2FA58EBE9539C62B3EC32EBD0CEFDC31AF844DFAFCD23E85468E82C7760A",
+    "hash": "0EB1F65095055EF8039005DF61B800F62A3952BBD86727499B8FB962B6D0FC4A",
     "extract_dir": "StaxRip-v2.3.0-x64",
     "shortcuts": [
         [
