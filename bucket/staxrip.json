@@ -1,5 +1,5 @@
 {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "description": "🎞 Video encoding GUI for Windows",
     "homepage": "https://github.com/staxrip/staxrip",
     "license": {
@@ -7,9 +7,9 @@
     },
     "notes": "",
     "depends": "dotnet-sdk",
-    "url": "https://github.com/staxrip/staxrip/releases/download/v2.4.0/StaxRip-v2.4.0-x64.7z",
-    "hash": "df106964d00133f873c0d831b7b7b77314620d921e7a0fcf03cf67b1eb75997c",
-    "extract_dir": "StaxRip-v2.4.0-x64",
+    "url": "https://github.com/staxrip/staxrip/releases/download/v2.5.0/StaxRip-v2.5.0-x64.7z",
+    "hash": "12059f4cac1bd0deb5dbc875f2f88c8905d418325216268579db7b94111a354d",
+    "extract_dir": "StaxRip-v2.5.0-x64",
     "shortcuts": [
         [
             "StaxRip.exe",
